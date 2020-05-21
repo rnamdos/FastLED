@@ -1,3 +1,8 @@
+THIS BRANCH
+===========
+This branch (and my first repo) is to support My9221 My92XX LED drivers. This wont be a simple addition to the chipsets since My9221 clock is double edge. This requires us to modify the bitbanging operation 
+
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FastLED/public)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/FastLED.svg)](https://www.ardu-badge.com/FastLED)
 
